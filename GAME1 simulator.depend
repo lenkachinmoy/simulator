@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1480544461 source:d:\game1 simulator\main.cpp
+	<iostream>
+	<ctime>
+	<string>
+	<random>
+
